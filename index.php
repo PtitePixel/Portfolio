@@ -11,7 +11,7 @@ require_once __DIR__.'../header.php';
  </div>
 
  <div class="profil">
-   <img src="img/profile.png" alt="moi" height="500" width="500">
+   <img src="img/pp.png" alt="moi" height="500" width="500">
  </div>
 
  <article class="presentation">
@@ -110,5 +110,5 @@ require_once __DIR__.'../header.php';
 
 
 <?php
-require_once __DIR__.'../footer.php';
+require_once __DIR__.'/../footer.php';
 ?>
